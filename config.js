@@ -49,11 +49,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/_ctzhid' // ig
-global.sgh = 'https://github.com/WH-MODS-BOT/' // github
-global.sgc = 'https://chat.whatsapp.com/FQkbyTEfvES3D363uxMEFOI' // group whatsapp
+global.sig = 'https://instagram.com/khoirul36_' // ig
+global.sgh = 'https://github.com/' // github
+global.sgc = 'https://chat.whatsapp.com/D2NUDa6vk4I6hrS176mErV' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
+global.snh = 'https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw' // my youtube channel
 global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
@@ -64,13 +64,13 @@ global.pgopay = '08XXXXXXXXXX' //gopay
 global.plinkaja = '08XXXXXXXXXX' //link aja
 global.ppulsa = '08XXXXXXXXXX' //telkomsel
 global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.co/mrw4h1d'
+global.psaweria = 'https://saweria.co'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '62XXXXXXXXXXX'
 global.nomorown = '62XXXXXXXXXXX'
-global.namebot = 'WH-MODS-BOT-V1'
-global.nameown = 'WH MODS DEV'
+global.namebot = 'RullBOT'
+global.nameown = 'KhrlMstfa'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'Nama Github Belum Diisi' // nama github lu
@@ -85,11 +85,11 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62XXXXXXXXXXX', 'WH MODS DEV', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true]
+  ['6287753812675', 'Khrl', true],
+  ['-', 'ISI KALAU ADA', false],
+  ['-', 'ISI KALAU ADA', false],
+  ['-', 'ISI KALAU ADA', false],
+  ['-', 'ISI KALAU ADA', false]
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 WH-MODS-BOT-V1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ WH-MODS-BOT-V1 '
-global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
-global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
+global.wm = '                「 RullBOT 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘RULLBOT ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ RULLBOT '
+global.botdate = `⫹⫺ Tanggal: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
+global.bottime = `W A K T U : ${wktuwib}`
+global.titlebot = `⫹⫺ WhatsApp Bot | By KhrlMstfa`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 WH-MODS-BOT-V1  あ」'
+global.author = '                「 RullBOT  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
